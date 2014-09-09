@@ -4,9 +4,3 @@ let s = "Hello OCaml World!\n";;
 print_string s;;
 
 
-
-
-
-
-
-
